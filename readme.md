@@ -7,5 +7,5 @@ Placeholder для браузеров, не поддерживающих ста�
 Подключить можно, например, так:
 
 `<!--[if lte IE 9]>
-<script src="/public/js/ie.placeholder.js"></script>
+    <script src="ie.placeholder.js"></script>
 <![endif]-->`
